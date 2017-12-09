@@ -1,6 +1,6 @@
 const app = "I don't do much."
 
 function destructivelyAppendKitten (array, name){
-  array.push();
-  return array;
+  kittens.push();
+  return kittens;
 }
